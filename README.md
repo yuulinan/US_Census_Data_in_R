@@ -2,5 +2,5 @@
 
 Source: [https://walker-data.com/census-r/working-with-census-data-outside-the-united-states.html](https://walker-data.com/census-r/working-with-census-data-outside-the-united-states.html)
 
-This repository hosts a collection of R projects, encompassing data analysis and visualization for both professional and recreational purposes.
+This repository analyzes and visualizes US Census data for professional and recreational purposes.
 
